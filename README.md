@@ -27,5 +27,3 @@ Understand stock volatility and performance trends using daily vs aggregated dat
 - Extend analysis to other companies (Apple, Tesla, S&P500).  
 - Add predictive models (ARIMA, LSTM, Prophet).  
 - Compare sector-wide volatility vs individual stocks.  
-
----
